@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="gatonymous.png" alt="Gatonymous" width="130">
   <img src="ai.png" alt="AI" width="100">
   <img src="dev.png" alt="Dev" width="100">
   <img src="cpp.png" alt="CPP" width="100">
